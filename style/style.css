@@ -20,4 +20,7 @@ url('../img/background.jpg') 0% 0%/cover
 	flex-basis: 50%
   }  
 }
+.fill-80-viewport {
+  min-height: 80vh
+}
 
