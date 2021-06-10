@@ -1,4 +1,8 @@
- section#introduction {
+#introduction {
 background: linear-gradient(rgba(100,181,246 ,1), rgba(0,0,0,0.8)), 
-url('https://github.com/PibSaid/TyB/blob/main/background.jpg?raw=true') 0% 0%/cover 
+url('../img/background.jpg') 0% 0%/cover 
 }
+.fill-viewport {
+  min-height: 100vh 
+}
+
